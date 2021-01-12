@@ -1,3 +1,5 @@
+package edu.tests;
+
 public class EvenOdd {
 
     public String check(int number) {
